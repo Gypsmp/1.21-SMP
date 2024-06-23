@@ -1,0 +1,8 @@
+cache/
+libraries/
+logs/
+versions/
+world*/
+
+usercache.json
+.console_history
